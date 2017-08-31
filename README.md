@@ -60,5 +60,4 @@ if (!d1.isWeekday()) {
 
 ### Library VS Framework
 
-Libraries are the older concept and these are just collection of utility classes/methods your code calsl upon to get some functionality. Frameworks, on the other hand, contain some functionality or flow and calls your code to extend or make the flow a specific one. The principle of frameworks calling your code is known as "Inversion of Control." 
-- [https://web.archive.org/web/20070504053354/http://www.ddj.com/blog/architectblog/archives/2006/07/frameworks_vs_l.html](https://web.archive.org/web/20070504053354/http://www.ddj.com/blog/architectblog/archives/2006/07/frameworks_vs_l.html)
+Libraries are the older concept and these are just collection of utility classes/methods your code calsl upon to get some functionality. Frameworks, on the other hand, contain some functionality or flow and calls your code to extend or make the flow a specific one. The principle of frameworks calling your code is known as "Inversion of Control." - [https://web.archive.org/web/20070504053354/http://www.ddj.com/blog/architectblog/archives/2006/07/frameworks_vs_l.html](https://web.archive.org/web/20070504053354/http://www.ddj.com/blog/architectblog/archives/2006/07/frameworks_vs_l.html)
